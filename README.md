@@ -2,6 +2,7 @@ check_softlayer_bandwidth
 =========================
 
 This is an Icinga/Nagios compliant script that checks for bandwidth overages for a virtual rack at SoftLayer.
+It has been updated to work with SoftLayer API 3.x+
 
 ```
 Usage: check_softlayer_bandwidth.py [options]
